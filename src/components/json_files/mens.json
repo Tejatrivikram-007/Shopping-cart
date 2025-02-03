@@ -1,0 +1,187 @@
+[
+    {
+      "id": 1,
+      "name": "Men's T-Shirt",
+      "price": 350,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/a/x/f/-original-imaguabk3j2gxbfa.jpeg?q=70&crop=false",
+      "description": "Comfortable and stylish T-shirt made of soft cotton, perfect for everyday wear.",
+      "sizes": ["S  ", "M ", "L ", "XL"]
+    },
+    {
+      "id": 2,
+      "name": "Men's Jeans",
+      "price": 1240,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/o/4/m/30-wsjn2098s-wrogn-original-imagzc4yzfyndbuc.jpeg?q=70&crop=false",
+      "description": "Classic fit denim jeans designed for durability and style.",
+      "sizes": ["28 ", "30  ", "32  ", "34  ", "36"]
+    },
+    {
+      "id": 3,
+      "name": "Men's Hoodie",
+      "price": 950,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/9/y/h/s-wtss7373m-wrogn-original-imah6ypbzfwfgzmq.jpeg?q=70&crop=false",
+      "description": "Warm and cozy hoodie with a front pocket, ideal for chilly days.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 5,
+      "name": "Men's Casual Shirt",
+      "price": 635,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/u/a/u/xl-31358660-wrogn-original-imah7fhguhhgwghh.jpeg?q=70&crop=false",
+      "description": "A casual button-up shirt made from soft, breathable fabric, perfect for any casual outing.",
+      "sizes": ["S  ", "M  ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 6,
+      "name": "Men's Leather Jacket",
+      "price": 2785,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/h/g/c/-original-imagvq9pnqgzzfhh.jpeg?q=70&crop=false",
+      "description": "Stylish leather jacket with a sleek finish, perfect for any season.",
+      "sizes": ["S  ", "M ", "L ", "XL", "XXL"]
+    },
+    {
+      "id": 7,
+      "name": "Men's Chinos",
+      "price": 845,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/l/r/j/32-wstrs5007f-wrogn-original-imah4zebdpbwbpgu.jpeg?q=70&crop=false",
+      "description": "Comfortable chinos with a slim fit, ideal for both casual and semi-formal occasions.",
+      "sizes": ["30 ", "32  ", "34  ", "36"]
+    },
+    {
+      "id": 8,
+      "name": "Men's Shorts",
+      "price": 525,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/short/q/h/k/-original-imah4w5pxrwydzff.jpeg?q=70&crop=false",
+      "description": "Stylish and breathable shorts, perfect for warm-weather outings.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 13,
+      "name": "Men's Hoodie Jacket",
+      "price": 965,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/9/n/d/s-wpss7279s-wrogn-original-imagxax4q2wfnjz6.jpeg?q=70&crop=false",
+      "description": "Cozy hoodie with a jacket style, perfect for layering during colder months.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 16,
+      "name": "Men's Suit Jacket",
+      "price": 1200,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/sweatshirt/c/6/2/l-zh24-pln-sg-adro-original-imah6eezh3ne3s9y.jpeg?q=70&crop=false",
+      "description": "Tailored suit jacket that adds sophistication and style to your formal wardrobe.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 18,
+      "name": "Men's Swim Trunks",
+      "price": 520,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/brief/v/x/w/xl-2-xytrnk2pckn416-xyxx-original-imagzyyzfetarpgh.jpeg?q=70&crop=false",
+      "description": "Quick-drying swim trunks, perfect for beach days or poolside lounging.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 21,
+      "name": "Men's Sweatpants",
+      "price": 630,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/5/c/w/xs-edcssnhwi2415grey-max-original-imah4c3eznqmfwr2.jpeg?q=70&crop=false",
+      "description": "Comfortable and soft sweatpants, perfect for relaxing or working out.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 24,
+      "name": "Men's Workout T-Shirt",
+      "price": 550,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/q/p/l/xl-30435542-wrogn-original-imah79qgbbajkszt.jpeg?q=70&crop=false",
+      "description": "Breathable workout T-shirt, designed for comfort and flexibility during exercise.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 25,
+      "name": "Men's Casual Blazer",
+      "price": 2220,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/blazer/2/i/f/s-wsbz4078s-wrogn-original-imahy9fjtxayah4y.jpeg?q=70&crop=false",
+      "description": "Lightweight blazer perfect for casual business settings or evening events.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 26,
+      "name": "Men's Cotton Briefs",
+      "price": 299,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/brief/v/s/q/s-1-style-006-levi-s-original-imah2hydyubpqfwy.jpeg?q=70&crop=false",
+      "description": "Soft cotton briefs with a snug fit for all-day comfort.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 27,
+      "name": "Men's Boxer Shorts",
+      "price": 450,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/boxer/l/9/f/xxl-xybox95-xyxx-original-imagpfg5adfgts7j.jpeg?q=70&crop=false",
+      "description": "Relaxed-fit boxers made with breathable fabric for superior comfort.",
+      "sizes": ["M  ", "L ", "XL ", "XXL"]
+    },
+    {
+      "id": 28,
+      "name": "Men's Thermal Vest",
+      "price": 799,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/thermal/h/z/8/m-xythehst03-xyxx-original-imagj4xgtj9gcgjn.jpeg?q=70&crop=false",
+      "description": "Warm thermal vest ideal for layering in cold weather.",
+      "sizes": ["S  ", "M ", "L ", "XL   ", "XXL"]
+    },
+    {
+      "id": 29,
+      "name": "Men's Crew Neck T-Shirt",
+      "price": 399,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/t-shirt/n/6/o/xl-skin-good-bdsquare-original-imah82k5dkzzf88t.jpeg?q=70&crop=false",
+      "description": "Classic cotton crew neck t-shirt, perfect for casual everyday wear.",
+      "sizes": ["S  ", "M ", "L ", "XL", "XXL"]
+    },
+    {
+      "id": 30,
+      "name": "Men's Hoodie Sweatshirt",
+      "price": 599,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-sweatshirt/u/d/1/xl-214-clothy-men-original-imagvze4rjm7fzbm.jpeg?q=70&crop=false",
+      "description": "Comfortable and stylish hoodie with a soft fleece lining.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 31,
+      "name": "Men's Slim Fit Jeans",
+      "price": 1000,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/9/b/4/30-z2-mjrp-02-zaysh-original-imah3wuqrum2tm2t.jpeg?q=70&crop=false",
+      "description": "Stretchable slim-fit jeans designed for all-day comfort.",
+      "sizes": ["28 ", "30  ", "32  ", "34  ", "36"]
+    },
+    {
+      "id": 32,
+      "name": "Men's Ultra Lightweight Tank Tops Men Vest",
+      "price": 399,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/vest/l/b/9/m-ve1037-brzblu-damensch-original-imagud9g362w6zrb.jpeg?q=70&crop=false",
+      "description": "Soft and breathable Ultra Lightweight Tank Tops Men Vest.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 33,
+      "name": "Men's Joggers",
+      "price": 799,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/track-pant/h/y/9/5xl-jog18-d95-olive-alan-jones-original-imah2feerzrjyssy.jpeg?q=70&crop=false",
+      "description": "Stylish and comfortable joggers, perfect for workouts and casual outings.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 34,
+      "name": "Men's V-Neck Undershirt",
+      "price": 399,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/9/j/5/s-ms302-macroman-m-series-original-imaggcytgkxty6ga.jpeg?q=70&crop=false",
+      "description": "Lightweight V-neck undershirt made of breathable cotton fabric.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    },
+    {
+      "id": 35,
+      "name": "Men's Casual Polo Shirt",
+      "price": 999,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/w/g/c/m-usshto2248-u-s-polo-assn-original-imags23fmmfzjadx.jpeg?q=70&crop=false",
+      "description": "Classic polo shirt with a soft and durable fabric blend.",
+      "sizes": ["S  ", "M ", "L ", "XL  ", "XXL"]
+    }
+  ]
+  

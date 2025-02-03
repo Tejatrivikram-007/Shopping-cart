@@ -1,0 +1,122 @@
+[
+    {
+      "id": "1",
+      "name": "Classic Leather Jacket",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "A sleek and stylish black leather jacket, perfect for any occasion.",
+      "sizes": ["S  ", "M   ", "L   ", "XL"],
+      "price": 129.99
+    },
+    {
+      "id": "2",
+      "name": "Denim Blue Jeans",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "Comfortable and durable denim jeans with a timeless blue wash.",
+      "sizes": ["28 ", "30  ", "32  ", "34  ", "36"],
+      "price": 49.99
+    },
+    {
+      "id": "3",
+      "name": "White Cotton T-Shirt",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "A soft and breathable white cotton t-shirt, ideal for layering or wearing on its own.",
+      "sizes": ["S  ", "M   ", "L   ", "XL"],
+      "price": 19.99
+    },
+    {
+      "id": "4",
+      "name": "Black Sneakers",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "Versatile black sneakers with a modern design for everyday wear.",
+      "sizes": ["7  ", "8   ", "9   ", "10  ", "11"],
+      "price": 69.99
+    },
+    {
+      "id": "5",
+      "name": "Striped Summer Dress",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "A breezy and stylish summer dress with a striped pattern, perfect for warm weather.",
+      "sizes": ["S  ", "M   ", "L"],
+      "price": 39.99
+    },
+    {
+      "id": "6",
+      "name": "Red Plaid Shirt",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "A casual red plaid shirt, perfect for layering or wearing on its own.",
+      "sizes": ["S  ", "M   ", "L   ", "XL"],
+      "price": 29.99
+    },
+    {
+      "id": "7",
+      "name": "Gray Hoodie",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "A soft and cozy gray hoodie with a front pocket and adjustable hood.",
+      "sizes": ["S  ", "M   ", "L   ", "XL"],
+      "price": 49.99
+    },
+    {
+      "id": "8",
+      "name": "Black High-Waisted Pants",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "Sleek black high-waisted pants with a flattering fit, great for both work and play.",
+      "sizes": ["S  ", "M   ", "L   ", "XL"],
+      "price": 39.99
+    },
+    {
+      "id": "9",
+      "name": "Floral Print Blouse",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "A feminine and elegant floral blouse, perfect for both casual and formal occasions.",
+      "sizes": ["S  ", "M   ", "L"],
+      "price": 34.99
+    },
+    {
+      "id": "10",
+      "name": "Jogger Sweatpants",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "Comfortable and relaxed jogger sweatpants for a laid-back, sporty look.",
+      "sizes": ["S  ", "M   ", "L   ", "XL"],
+      "price": 29.99
+    },
+    {
+      "id": "11",
+      "name": "Leather Crossbody Bag",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "A sleek leather crossbody bag with adjustable strap, perfect for everyday use.",
+      "sizes": ["One Size"],
+      "price": 79.99
+    },
+    {
+      "id": "12",
+      "name": "Chunky Knit Sweater",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "A cozy chunky knit sweater, perfect for colder weather and layering.",
+      "sizes": ["S  ", "M   ", "L   ", "XL"],
+      "price": 59.99
+    },
+    {
+      "id": "13",
+      "name": "Canvas Tote Bag",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "A durable and spacious canvas tote bag, ideal for daily errands or weekend trips.",
+      "sizes": ["One Size"],
+      "price": 24.99
+    },
+    {
+      "id": "14",
+      "name": "Slip-On Canvas Shoes",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "Easy-to-wear slip-on canvas shoes, perfect for everyday casual outings.",
+      "sizes": ["7  ", "8   ", "9   ", "10  ", "11"],
+      "price": 34.99
+    },
+    {
+      "id": "15",
+      "name": "Striped Polo Shirt",
+      "image":"dhttps://rukminim2.flixcart.com/image/612/612/xif0q/jacket/v/q/v/l-no-jacket-for-men-king-craft-original-imah3fcjzpx6f3dd.jpeg?q=70",
+      "description": "A stylish striped polo shirt, offering a blend of casual and sporty vibes.",
+      "sizes": ["S  ", "M   ", "L   ", "XL"],
+      "price": 27.99
+    }
+  ]

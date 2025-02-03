@@ -1,0 +1,78 @@
+{ 
+        id: 9, 
+        name: 'Men\'s Socks', 
+        price: 10, 
+        image: 'https://via.placeholder.com/150', 
+        description: 'Soft and stretchy socks designed to keep your feet comfortable all day long.' 
+    },
+    { 
+        id: 10, 
+        name: 'Men\'s Belt', 
+        price: 20, 
+        image: 'https://via.placeholder.com/150', 
+        description: 'Durable leather belt with a classic design, perfect for adding style to your outfit.' 
+    },
+    { 
+        id: 11, 
+        name: 'Men\'s Sunglasses', 
+        price: 30, 
+        image: 'https://via.placeholder.com/150', 
+        description: 'Fashionable sunglasses that offer UV protection while adding a cool touch to your look.' 
+    },
+      { 
+        id: 12, 
+        name: 'Men\'s Watch', 
+        price: 80, 
+        image: 'https://via.placeholder.com/150', 
+        description: 'Elegant wristwatch with a minimalist design, perfect for both formal and casual wear.' 
+    },
+
+    { 
+        id: 14, 
+        name: 'Men\'s Running Shoes', 
+        price: 75, 
+        image: 'https://via.placeholder.com/150', 
+        description: 'Designed for maximum comfort, these running shoes provide excellent support for any run or jog.' 
+    },
+    { 
+        id: 15, 
+        name: 'Men\'s Backpack', 
+        price: 55, 
+        image: 'https://via.placeholder.com/150', 
+        description: 'Spacious backpack with multiple compartments, perfect for everyday use or travel.' 
+    },
+    { 
+        id: 17, 
+        name: 'Men\'s Casual Shoes', 
+        price: 50, 
+        image: 'https://via.placeholder.com/150', 
+        description: 'Stylish and comfortable casual shoes, perfect for daily wear or casual events.' 
+    },
+     { 
+        id: 19, 
+        name: 'Men\'s Flip Flops', 
+        price: 15, 
+        image: 'https://via.placeholder.com/150', 
+        description: 'Comfortable flip flops, ideal for summer wear or casual outings.' 
+    },
+    { 
+        id: 20, 
+        name: 'Men\'s Beanie', 
+        price: 18, 
+        image: 'https://via.placeholder.com/150', 
+        description: 'Warm beanie, perfect for keeping your head cozy during the colder months.' 
+    },
+     { 
+        id: 22, 
+        name: 'Men\'s Dress Shoes', 
+        price: 100, 
+        image: 'https://via.placeholder.com/150', 
+        description: 'Elegant dress shoes that add a polished look to any formal outfit.' 
+    },
+     { 
+        id: 23, 
+        name: 'Men\'s Cap', 
+        price: 15, 
+        image: 'https://via.placeholder.com/150', 
+        description: 'Casual cap with a classic design, perfect for sunny days or adding style to your outfit.' 
+    },

@@ -1,0 +1,888 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone type-C Charger",
+      "price": 500,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/battery-charger/q/z/q/80w-dash-wrap-supervooc-fast-type-c-charger-for-vivo-t2-charger-original-imah44ggsge7yz9m.jpeg?q=70",
+      "description": "Fast-charging Type-C charger compatible with various smartphones, ensuring quick and efficient power delivery."
+    },
+    {
+      "id": 2,
+      "name": "Laptop screen cover",
+      "price": 329,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/laptop-skin-decal/j/o/o/premium-vinyl-hd-printed-easy-to-install-full-panel-laptop-skin-original-imah8jebtdtzse4d.jpeg?q=70",
+      "description": "Premium vinyl laptop skin designed to protect your screen from dust, scratches, and fingerprints."
+    },
+    {
+      "id": 3,
+      "name": "Wireless Earbuds",
+      "price": 899,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/9/6/o/-original-imahf2hunqefkawq.jpeg?q=70",
+      "description": "Ergonomic, noise-canceling wireless earbuds with deep bass and long battery life for uninterrupted music."
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "price": 799,
+      "image": "https://rukminim2.flixcart.com/image/612/612/kpzt7680/speaker/mobile-tablet-speaker/c/7/o/sounddrum-1-por-1327-portronics-original-imag43tcuz8swymc.jpeg?q=70",
+      "description": "Portable Bluetooth speaker with high-fidelity sound, deep bass, and a compact design for easy travel."
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "price": 1999,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/smartwatch/e/y/q/-original-imah2v2vraheb8fz.jpeg?q=70",
+      "description": "Feature-rich smartwatch with heart rate monitoring, step tracking, and smart notifications."
+    },
+    {
+      "id": 6,
+      "name": "Tablet pens",
+      "price": 1499,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/stylus/r/a/q/upgraded-stylus-pen-ipad-pencil-ultra-high-precision-sensitivity-original-imahf3fuy59pfbuw.jpeg?q=70",
+      "description": "Highly precise stylus pen for tablets, ideal for drawing, note-taking, and digital art."
+    },
+    {
+      "id": 7,
+      "name": "Gaming Console",
+      "price": 899,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/x/l/c/yes-retro-s10-controller-digital-game-player-classic-video-original-imah8bzz6cb6zhzn.jpeg?q=70",
+      "description": "Classic gaming console with preloaded retro games for an immersive gaming experience."
+    },
+    {
+      "id": 8,
+      "name": "Digital Camera lens cover",
+      "price": 350,
+      "image": "https://rukminim2.flixcart.com/image/612/612/jsj90280/lens-cap/z/c/y/boosty-62mm-lens-filter-cap-original-imafe23zugvfamwf.jpeg?q=70",
+      "description": "Protective lens cover to prevent dust and scratches on your digital camera lenses."
+    },
+    {
+      "id": 10,
+      "name": "Laptop Charger",
+      "price": 714,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/laptop-adapter/h/5/j/65w-19-5v-3-33a-4-5mm-blue-pin-charger-for-hp-246-g3-laplogix-original-imagg7m6ehuezfuz.jpeg?q=70",
+      "description": "Reliable and efficient laptop charger with fast-charging capability."
+    },
+    {
+      "id": 11,
+      "name": "Power Bank",
+      "price": 1998,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/m/m/s/-original-imah4ygyfxvrjjxq.jpeg?q=70",
+      "description": "High-capacity power bank for charging multiple devices on the go."
+    },
+    {
+      "id": 12,
+      "name": "Portable Hard Drive",
+      "price": 1565,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/external-hard-drive/hdd/v/u/4/500-gb-portable-external-hard-disk-usb-3-0-for-pc-laptop-windows-original-imahft2mhjy5kkcr.jpeg?q=70",
+      "description": "500GB portable external hard drive for secure and fast data storage."
+    },
+    {
+      "id": 13,
+      "name": "Smart Home Hub",
+      "price": 400,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/usb-gadget/h/s/n/multi-usb-port-for-laptop-keyboard-camera-phone-other-hryfine-original-imagwekctfcmwjg7.jpeg?q=70",
+      "description": "Smart home hub for seamless integration and voice control of home devices."
+    },
+    {
+      "id": 15,
+      "name": "Wireless Mouse",
+      "price": 615,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/a/t/d/-original-imagwde4z4v2cy6g.jpeg?q=70",
+      "description": "Ergonomic wireless mouse with long battery life and high precision tracking."
+    },
+    {
+      "id": 16,
+      "name": "Mechanical Keyboard",
+      "price": 1699,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/j/1/2/katana-x-mechanical-evofox-original-imah4zghd9dykcfx.jpeg?q=70",
+      "description": "RGB-backlit mechanical keyboard designed for gaming and typing efficiency."
+    },
+    {
+      "id": 19,
+      "name": "Smart Light Bulb",
+      "price": 275,
+      "image": "https://rukminim2.flixcart.com/image/612/612/kr83ukw0/solar-light-set/8/z/9/20-led-solar-light-tapashi-fashion-original-imag529mbkyyft88.jpeg?q=70",
+      "description": "Wi-Fi-enabled smart light bulb with multiple colors and voice control compatibility."
+    },
+    {
+      "id": 22,
+      "name": "Electric Toothbrush",
+      "price": 598,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/electric-toothbrush/t/k/o/spark-electric-rechargeable-toothbrush-blue-6-operational-modes-original-imah7yyshwagaf85.jpeg?q=70",
+      "description": "Rechargeable electric toothbrush with multiple brushing modes for better oral hygiene."
+    },
+    {
+      "id": 25,
+      "name": "Smart Lock",
+      "price": 1599,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/lock/3/f/d/numeric-household-cabinet-password-locks-1-wemol-original-imagx2y4pbdwbegg.jpeg?q=70",
+      "description": "Secure smart lock with keypad entry and remote access via mobile app."
+    },
+    {
+      "id": 26,
+      "name": "Women's Dress",
+      "price": 849,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/dress/f/p/o/xl-612dtk7685aar-selvia-original-imah7d7asns88jez.jpeg?q=70&crop=false",
+      "description": "A stylish and elegant dress perfect for any occasion.",
+      "sizes": ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": 27,
+      "name": "Women's T-Shirt",
+      "price": 350,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/t-shirt/r/g/4/m-w136-technosport-original-imah7js3tqhfbv5k.jpeg?q=70&crop=false",
+      "description": "A comfortable and breathable t-shirt for casual wear.",
+      "sizes": ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": 28,
+      "name": "Women's Jeans",
+      "price": 735,
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/l/u/s/28-ac-40-a-c-creation-original-imah45eychqbzd7t.jpeg?q=70&crop=false",
+      "description": "Classic denim jeans with a perfect fit and timeless design.",
+      "sizes": ["28", "30", "32", "34", "36"]
+    },
+    {
+      "id": 29,
+      "name": "Women's Blouse",
+      "price": 280,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/blouse/m/g/a/sm0015-zenith-original-imah7snybjjwjrzz.jpeg?q=70&crop=false",
+      "description": "A versatile blouse that can be dressed up or down for various occasions.",
+      "sizes": ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": 30,
+      "name": "Men's T-Shirt",
+      "price": 400,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/t-shirt/s/j/k/m-8-8-12-strike-original-imahfzbt4sdzqug9.jpeg?q=70&crop=false",
+      "description": "A stylish and comfortable t-shirt for men, perfect for casual outings.",
+      "sizes": ["M", "L", "XL", "XXL"]
+    },
+    {
+      "id": 31,
+      "name": "Men's Jeans",
+      "price": 1099,
+      "image": "https://rukminim2.flixcart.com/image/416/416/kdf0r0w0/jean/c/j/t/32-273-d-blue-dennise-original-imafzfmwbgyxycgt.jpeg?q=70&crop=false",
+      "description": "High-quality denim jeans with a perfect fit and modern design.",
+      "sizes": ["32", "34", "36"]
+    },
+    {
+      "id": 32,
+      "name": "Men's Shirt",
+      "price": 725,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/shirt/c/x/x/lss01t1-tsg-original-imafwhxkq4hcfehj.jpeg?q=70&crop=false",
+      "description": "A trendy and comfortable shirt that can be worn for both casual and formal occasions.",
+      "sizes": ["M", "L", "XL", "XXL"]
+    },
+    {
+      "id": 33,
+      "name": "Men's Trousers",
+      "price": 899,
+      "image": "https://rukminim2.flixcart.com/image/416/416/kfz5k7k0/trouser/g/e/f/32-2722t-b2-fenix-original-imafwp5bbfy7mmw6.jpeg?q=70&crop=false",
+      "description": "Stylish and comfortable men's trousers suitable for office and casual wear.",
+      "sizes": ["32", "34", "36"]
+    },
+    {
+      "id": 34,
+      "name": "Men's Shorts",
+      "price": 599,
+      "image": "https://rukminim2.flixcart.com/image/416/416/kf2vvsw0/shorts/j/9/v/32-2724-b1-fenix-original-imafx4b3hnfbthhw.jpeg?q=70&crop=false",
+      "description": "Comfortable and trendy men's shorts for casual and summer wear.",
+      "sizes": ["32", "34", "36"]
+    },
+    {
+      "id": 35,
+      "name": "Men's Jacket",
+      "price": 2399,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/jacket/h/j/a/l-tz1l16k-a-fsfd-original-imagwjmbfc9tpyab.jpeg?q=70&crop=false",
+      "description": "A stylish men's jacket that combines fashion and warmth for winter."
+    },
+    {
+      "id": 36,
+      "name": "Women's Jacket",
+      "price": 2299,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/jacket/e/q/d/m-v-56-s-wnh-yellow-trendy-ladies-casual-jacket-original-imafzbbjqqs6g7hg.jpeg?q=70&crop=false",
+      "description": "Trendy women's jacket, perfect for winter and casual outings."
+    },
+    {
+        "id": 37,
+        "name": "Women's Scarf",
+        "price": 499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/scarf/s/p/z/1-scarf-pp-smooth-original-imafz4gbgvyphmgq.jpeg?q=70&crop=false",
+        "description": "A soft and stylish scarf that adds an elegant touch to any outfit."
+      },
+      {
+        "id": 38,
+        "name": "Men's Belt",
+        "price": 799,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/belt/m/y/f/36-csbt-002s-cherry-sunny-original-imagv8zh7bmdtgeq.jpeg?q=70&crop=false",
+        "description": "A durable and fashionable men's belt perfect for casual and formal wear."
+      },
+      {
+        "id": 39,
+        "name": "Men's Wallet",
+        "price": 899,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/wallet/c/s/c/leather-wallet-king-audio-original-imafzmdwvfdrh5g7.jpeg?q=70&crop=false",
+        "description": "A sleek leather wallet with multiple card slots and a stylish design."
+      },
+      {
+        "id": 40,
+        "name": "Women's Watch",
+        "price": 1299,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/watch/k/z/d/rosa-rsl-167-stainless-steel-analog-original-imagzw2wjf8qhuwz.jpeg?q=70&crop=false",
+        "description": "A trendy women's watch with a stainless steel strap and elegant design."
+      },
+      {
+        "id": 41,
+        "name": "Men's Watch",
+        "price": 1599,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/watch/b/s/q/dj-shri-228-k1-djshri-original-imagzxw3bzqzbzdq.jpeg?q=70&crop=false",
+        "description": "A stylish men's watch with a bold design and durable build."
+      },
+      {
+        "id": 42,
+        "name": "Smartphone Screen Protector",
+        "price": 249,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/screen-guard/y/f/j/samsung-galaxy-m04-matte-screen-guard-gadgetshield-original-imaghbs5nrcwwfrk.jpeg?q=70&crop=false",
+        "description": "High-quality matte screen protector to keep your smartphone's display scratch-free."
+      },
+      {
+        "id": 43,
+        "name": "Laptop Bag",
+        "price": 799,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/laptop-bag/9/w/h/dl-duffle-green-laptop-bag-original-imagh7ffncezhgcz.jpeg?q=70&crop=false",
+        "description": "A durable and stylish laptop bag with multiple compartments for easy storage."
+      },
+      {
+        "id": 44,
+        "name": "Wireless Charging Pad",
+        "price": 899,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/wireless-charger/m/8/9/10w-charger-wisessence-original-imaghfe9b8vgyxch.jpeg?q=70&crop=false",
+        "description": "Fast wireless charging pad for smartphones and other Qi-enabled devices."
+      },
+      {
+        "id": 45,
+        "name": "Phone Holder Stand",
+        "price": 299,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/phone-holder/4/y/k/universal-foldable-portable-smartphone-tablet-stand-holder-original-imag9hzdybqrdhwf.jpeg?q=70&crop=false",
+        "description": "Adjustable phone holder stand for hands-free viewing and video calls."
+      },
+      {
+        "id": 46,
+        "name": "Car Phone Mount",
+        "price": 499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/car-mount/d/t/v/universal-car-dashboard-360-degree-rotation-smartphone-mount-holder-original-imagpghbbxjeesmn.jpeg?q=70&crop=false",
+        "description": "A sturdy car phone mount with 360-degree rotation for easy navigation."
+      },
+      {
+        "id": 47,
+        "name": "Bluetooth Earbuds",
+        "price": 1499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/earphone/g/y/v/bluetooth-earbuds-realme-original-imagvhjyyxndszkp.jpeg?q=70&crop=false",
+        "description": "Wireless Bluetooth earbuds with clear sound quality and long battery life."
+      },
+      {
+        "id": 48,
+        "name": "Wireless Keyboard and Mouse Combo",
+        "price": 999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/keyboard/w/s/p/usb-wireless-keyboard-and-mouse-combo-ns-original-imagz8gvcg2xppgg.jpeg?q=70&crop=false",
+        "description": "A convenient wireless keyboard and mouse combo for a smooth typing experience."
+      },
+      {
+        "id": 49,
+        "name": "Smart Fitness Tracker",
+        "price": 2499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/fitness-band/e/7/j/fitness-tracker-smartwatch-unisex-original-imaghwxyppjqhhck.jpeg?q=70&crop=false",
+        "description": "A fitness tracker to monitor your health, steps, heart rate, and more."
+      },
+      {
+        "id": 50,
+        "name": "Bluetooth Speaker",
+        "price": 1599,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/h/p/y/mini-bluetooth-portable-wireless-speaker-original-imagfh6yzj9whtgx.jpeg?q=70&crop=false",
+        "description": "Compact Bluetooth speaker with high-quality sound and portable design."
+      },
+      {
+        "id": 51,
+        "name": "Portable Power Bank",
+        "price": 899,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/power-bank/7/5/0/20000-mah-power-bank-pbx-08-portronics-original-imafzzwzjvhsr7fq.jpeg?q=70&crop=false",
+        "description": "A high-capacity power bank to charge your devices on the go."
+      },
+      {
+        "id": 52,
+        "name": "Wireless Mouse",
+        "price": 499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mouse/p/s/v/usb-wireless-mouse-wf10-logitech-original-imagzfj7j7mfgfgg.jpeg?q=70&crop=false",
+        "description": "Ergonomic wireless mouse with a smooth scroll and responsive design."
+      },
+      {
+        "id": 53,
+        "name": "Smart LED Light Bulb",
+        "price": 599,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/bulb/g/c/e/9w-bulb-smart-led-lights-aerolight-original-imagzjzvxwz6tkzc.jpeg?q=70&crop=false",
+        "description": "A smart LED light bulb that can be controlled with your smartphone."
+      },
+      {
+        "id": 54,
+        "name": "Smart Home Security Camera",
+        "price": 2499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/security-camera/h/7/x/wifi-1080p-wireless-security-camera-mee5n-homeview-original-imaghwz6n7hgmzvz.jpeg?q=70&crop=false",
+        "description": "A 1080p wireless home security camera with motion detection and night vision."
+      },
+      {
+        "id": 55,
+        "name": "Smart Thermostat",
+        "price": 3999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/thermostat/d/l/9/smart-thermostat-easy-installation-quick-settings-original-imaghgqynfgjhf3f.jpeg?q=70&crop=false",
+        "description": "A smart thermostat that learns your temperature preferences and helps save energy."
+      },
+      {
+        "id": 56,
+        "name": "Electric Kettle",
+        "price": 899,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/kettle/c/g/p/1-8-ltr-electic-kettle-bajaj-original-imaggjfnjvhyckgn.jpeg?q=70&crop=false",
+        "description": "A quick-boiling electric kettle with an auto-off feature for safety."
+      },
+      {
+        "id": 57,
+        "name": "Cordless Vacuum Cleaner",
+        "price": 4999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/vacuum-cleaner/q/7/2/cordless-stick-vacuum-cleaner-saarth-original-imaghbbzkwbfg9r7.jpeg?q=70&crop=false",
+        "description": "Cordless vacuum cleaner with powerful suction for efficient cleaning."
+      },
+      {
+        "id": 58,
+        "name": "Electric Iron",
+        "price": 899,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/iron/x/f/m/1200w-iron-ecora-original-imagzz6phv5vyhmd.jpeg?q=70&crop=false",
+        "description": "A lightweight electric iron with a non-stick soleplate for smooth ironing."
+      },
+      {
+        "id": 59,
+        "name": "Smart LED TV",
+        "price": 24999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/television/j/s/y/32-inch-full-hd-smart-led-tv-mi-original-imaghpg7fuwy9zhr.jpeg?q=70&crop=false",
+        "description": "32-inch Full HD smart LED TV with rich color and immersive sound."
+      },
+      {
+        "id": 60,
+        "name": "Electric Mixer Grinder",
+        "price": 1799,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mixer-grinder/n/m/y/750w-mixer-grinder-ugk3-premium-original-imaghw2gyh3yf8bq.jpeg?q=70&crop=false",
+        "description": "Powerful 750W electric mixer grinder for effortless grinding and mixing."
+      },
+      {
+        "id": 61,
+        "name": "Coffee Maker",
+        "price": 1999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/coffee-maker/x/f/j/coffee-maker-ecm-original-imaghvvxgzs9hgkd.jpeg?q=70&crop=false",
+        "description": "Automatic coffee maker for brewing the perfect cup of coffee every time."
+      },
+      {
+        "id": 62,
+        "name": "Induction Cooktop",
+        "price": 1599,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/cooktop/k/a/z/induction-cooktop-abs-material-pioneer-original-imagyg9pzybx7v7d.jpeg?q=70&crop=false",
+        "description": "Energy-efficient induction cooktop with touch controls and quick heating."
+      },
+      {
+        "id": 63,
+        "name": "Air Purifier",
+        "price": 6499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/air-purifier/4/j/3/air-purifier-ap-4502n-samsung-original-imagfctt6ftzzayf.jpeg?q=70&crop=false",
+        "description": "Air purifier with HEPA filter for clean and fresh air in your home."
+      },
+      {
+        "id": 64,
+        "name": "Rice Cooker",
+        "price": 1299,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/rice-cooker/g/q/d/1-ltr-rice-cooker-preethi-original-imagf7bzxxzgd3t7.jpeg?q=70&crop=false",
+        "description": "Compact rice cooker for easy cooking and quick meals."
+      },
+      {
+        "id": 65,
+        "name": "Juicer Mixer Grinder",
+        "price": 2499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mixer-grinder/e/f/9/juicer-mixer-grinder-1000w-bosch-original-imaggcwxqun2fbqg.jpeg?q=70&crop=false",
+        "description": "A 1000W juicer mixer grinder for all your juice, grind, and mix needs."
+      },
+      {
+        "id": 66,
+        "name": "Toaster",
+        "price": 999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/toaster/b/x/v/electric-toast-maker-1000-watts-vision-original-imafzzfgrrcxwqjh.jpeg?q=70&crop=false",
+        "description": "Electric toaster with adjustable settings for perfect toast every time."
+      },
+      {
+        "id": 67,
+        "name": "Food Processor",
+        "price": 3499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/food-processor/a/o/2/food-processor-preethi-original-imaghhge8rfk5jpm.jpeg?q=70&crop=false",
+        "description": "Multi-purpose food processor for chopping, slicing, and grinding."
+      },
+      {
+        "id": 68,
+        "name": "Electric Kettle",
+        "price": 799,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/electric-kettle/t/d/d/1-7l-kettle-oveve-original-imaggf7ufh2sgzgy.jpeg?q=70&crop=false",
+        "description": "1.7L electric kettle with automatic shut-off and quick boiling."
+      },
+      {
+        "id": 69,
+        "name": "Slow Cooker",
+        "price": 2499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/slow-cooker/h/i/b/3l-slow-cooker-preethi-original-imaggf4kxkqzwfgs.jpeg?q=70&crop=false",
+        "description": "3L slow cooker for tender and flavorful meals with minimal effort."
+      },
+      {
+        "id": 70,
+        "name": "Hand Blender",
+        "price": 999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/hand-blender/5/a/m/hand-blender-200w-bajaj-original-imafzzyq8fh4ytza.jpeg?q=70&crop=false",
+        "description": "200W hand blender for easy blending, mixing, and pureeing."
+      },
+      {
+        "id": 71,
+        "name": "Washing Machine",
+        "price": 12999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine/s/o/s/fully-automatic-front-load-washing-machine-bosch-original-imag5ybfw3fq7egw.jpeg?q=70&crop=false",
+        "description": "Fully automatic front-load washing machine with advanced features."
+      },
+      {
+        "id": 72,
+        "name": "Smart Refrigerator",
+        "price": 31999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/refrigerator/y/j/e/260l-smart-fridge-lg-original-imag5y3rhdhzzgxt.jpeg?q=70&crop=false",
+        "description": "Smart refrigerator with efficient cooling and large storage capacity."
+      },
+      {
+        "id": 73,
+        "name": "Microwave Oven",
+        "price": 4999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/microwave-oven/v/o/g/23-l-convection-microwave-oven-bajaj-original-imag5ybbf4fgb7m4.jpeg?q=70&crop=false",
+        "description": "23L convection microwave oven for baking, grilling, and more."
+      },
+      {
+        "id": 74,
+        "name": "Dishwasher",
+        "price": 14999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/dishwasher/e/n/k/12-place-setting-dishwasher-samsung-original-imag5y8yym7azj6u.jpeg?q=70&crop=false",
+        "description": "12-place setting dishwasher for efficient and hygienic cleaning."
+      },
+      {
+        "id": 75,
+        "name": "Blender",
+        "price": 799,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/blender/z/x/a/500-watt-blender-bajaj-original-imafzzyffv9wfzkd.jpeg?q=70&crop=false",
+        "description": "500W blender with multiple speed settings for various blending needs."
+      },
+      {
+        "id": 76,
+        "name": "Electric Sandwich Maker",
+        "price": 1299,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/sandwich-maker/z/f/y/2-slice-sandwich-maker-preethi-original-imagfvukbdx7xz9y.jpeg?q=70&crop=false",
+        "description": "2-slice electric sandwich maker for quick and easy snacks."
+      },
+      {
+        "id": 77,
+        "name": "Dehumidifier",
+        "price": 4999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/dehumidifier/3/j/g/30-l-dehumidifier-marq-original-imagfgxukyzgybzu.jpeg?q=70&crop=false",
+        "description": "30L dehumidifier to remove excess moisture and improve air quality."
+      },
+      {
+        "id": 78,
+        "name": "Pressure Cooker",
+        "price": 899,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/pressure-cooker/p/s/f/3-ltr-pressure-cooker-preethi-original-imag2t6vks9fe7jq.jpeg?q=70&crop=false",
+        "description": "3L pressure cooker for fast cooking and retention of nutrients."
+      },
+      {
+        "id": 79,
+        "name": "Food Dehydrator",
+        "price": 3999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/food-dehydrator/8/n/h/food-dehydrator-chase-original-imagffy7v4jyj89j.jpeg?q=70&crop=false",
+        "description": "Compact food dehydrator to preserve fruits, vegetables, and more."
+      },
+      {
+        "id": 80,
+        "name": "Coffee Grinder",
+        "price": 1599,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/coffee-grinder/q/d/s/coffee-grinder-bajaj-original-imafzz6p9yzgwsu5.jpeg?q=70&crop=false",
+        "description": "Electric coffee grinder for freshly ground coffee every time."
+      },
+      {
+        "id": 81,
+        "name": "Electric Tandoor",
+        "price": 1999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/tandoor/x/o/p/electric-tandoor-1000w-queeni-original-imagff7vugfnkqxy.jpeg?q=70&crop=false",
+        "description": "Electric tandoor for grilling and baking at home."
+      },
+      {
+        "id": 82,
+        "name": "Air Fryer",
+        "price": 3499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/air-fryer/x/c/t/2-5-ltr-air-fryer-pigeon-original-imagff7rzgej5xgb.jpeg?q=70&crop=false",
+        "description": "2.5L air fryer for cooking with less oil and healthy meals."
+      },
+      {
+        "id": 83,
+        "name": "Coffee Machine",
+        "price": 4999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/coffee-machine/5/b/e/automatic-espresso-coffee-machine-pigeon-original-imagffzyxg7sfbwt.jpeg?q=70&crop=false",
+        "description": "Automatic espresso coffee machine for a café-like experience at home."
+      },
+      {
+        "id": 84,
+        "name": "Electric Grill",
+        "price": 2299,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/grill-stand/p/l/3/indoor-electric-grill-preethi-original-imafzzytnyzmfcym.jpeg?q=70&crop=false",
+        "description": "Electric grill for making grilled food quickly and efficiently."
+      },
+      {
+        "id": 85,
+        "name": "Clothes Steamer",
+        "price": 1499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/clothes-steamer/v/f/t/clothes-steamer-250w-bajaj-original-imafzz7x9z2byvgb.jpeg?q=70&crop=false",
+        "description": "Portable clothes steamer for easy wrinkle removal on the go."
+      },
+      {
+        "id": 86,
+        "name": "Wall Fan",
+        "price": 999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/wall-fan/j/y/6/air-circulator-wall-fan-vanesa-original-imaghh4xhby4dzr9.jpeg?q=70&crop=false",
+        "description": "Energy-efficient wall fan with adjustable speed settings."
+      },
+      {
+        "id": 87,
+        "name": "Ceiling Fan",
+        "price": 1099,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/ceiling-fan/a/h/k/1200-mm-ceiling-fan-luminous-original-imaghh4x3ggfksfj.jpeg?q=70&crop=false",
+        "description": "1200mm ceiling fan for maximum air circulation and comfort."
+      },
+      {
+        "id": 88,
+        "name": "Pedestal Fan",
+        "price": 1599,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/pedestal-fan/k/o/w/1200-mm-pedestal-fan-crompton-original-imaghqhkdycfygxv.jpeg?q=70&crop=false",
+        "description": "Adjustable pedestal fan for customizable airflow in any room."
+      },
+      {
+        "id": 89,
+        "name": "Exhaust Fan",
+        "price": 899,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/exhaust-fan/v/e/4/200-mm-exhaust-fan-crompton-original-imaghqfuhhmqfwpz.jpeg?q=70&crop=false",
+        "description": "200mm exhaust fan for better ventilation and air circulation."
+      },
+      {
+        "id": 90,
+        "name": "Electric Heater",
+        "price": 1799,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/heater/m/s/4/1000w-heater-bajaj-original-imafzzyz7gzkymng.jpeg?q=70&crop=false",
+        "description": "1000W electric heater for quick warmth during the cold season."
+      },
+      {
+        "id": 91,
+        "name": "Table Fan",
+        "price": 799,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/table-fan/t/g/g/230-mm-table-fan-crompton-original-imaghqfuhdyc7zvh.jpeg?q=70&crop=false",
+        "description": "Compact table fan for efficient cooling in small spaces."
+      },
+      {
+        "id": 92,
+        "name": "Handheld Vacuum Cleaner",
+        "price": 1799,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/vacuum-cleaner/h/n/7/handheld-vacuum-cleaner-preethi-original-imaghhbbfzuyhtfg.jpeg?q=70&crop=false",
+        "description": "Handheld vacuum cleaner for easy cleaning of upholstery and small spaces."
+      },
+      {
+        "id": 93,
+        "name": "Wet and Dry Vacuum Cleaner",
+        "price": 4999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/vacuum-cleaner/s/f/q/wet-dry-vacuum-cleaner-bosch-original-imaggy5hdfrqz2fg.jpeg?q=70&crop=false",
+        "description": "Wet and dry vacuum cleaner for versatile cleaning options."
+      },
+      {
+        "id": 94,
+        "name": "Vacuum Cleaner with HEPA Filter",
+        "price": 8999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/vacuum-cleaner/o/b/d/vacuum-cleaner-with-hepa-filter-philips-original-imaghhbhh9zxry6k.jpeg?q=70&crop=false",
+        "description": "Vacuum cleaner with HEPA filter for allergy-friendly cleaning."
+      },
+      {
+        "id": 95,
+        "name": "Cordless Stick Vacuum",
+        "price": 12999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/vacuum-cleaner/v/i/s/cordless-vacuum-cleaner-philips-original-imaghg2yghzxz7j9.jpeg?q=70&crop=false",
+        "description": "Cordless stick vacuum for quick and hassle-free cleaning."
+      },
+      {
+        "id": 96,
+        "name": "Car Vacuum Cleaner",
+        "price": 1499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/vacuum-cleaner/z/t/k/car-vacuum-cleaner-bosch-original-imafzzyrq6ysvngd.jpeg?q=70&crop=false",
+        "description": "Compact car vacuum cleaner for cleaning car interiors."
+      },
+      {
+        "id": 97,
+        "name": "Corded Vacuum Cleaner",
+        "price": 3499,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/vacuum-cleaner/h/s/v/corded-vacuum-cleaner-bosch-original-imagyyhsyzmqv2t8.jpeg?q=70&crop=false",
+        "description": "Corded vacuum cleaner for powerful suction and deep cleaning."
+      },
+      {
+        "id": 98,
+        "name": "Robot Vacuum Cleaner",
+        "price": 24999,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/vacuum-cleaner/e/o/m/robot-vacuum-cleaner-robotic-irobot-original-imag2t9gkz6xhxwa.jpeg?q=70&crop=false",
+        "description": "Robot vacuum cleaner for automatic and hands-free cleaning."
+      },
+      {
+        "id": 99,
+        "name": "Steam Iron",
+        "price": 1299,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/iron/q/s/e/steam-iron-philips-original-imagh3f8jj7yzrxy.jpeg?q=70&crop=false",
+        "description": "Steam iron for smooth ironing with continuous steam output."
+      },
+      {
+        "id": 100,
+        "name": "Dry Iron",
+        "price": 799,
+        "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/iron/q/j/e/dry-iron-preethi-original-imag3gztqpk9dhqe.jpeg?q=70&crop=false",
+        "description": "Lightweight dry iron for easy and efficient wrinkle removal."
+      },
+      { "id": 101, "name": "Men's Sneakers", "price": 690, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/t/h/c/6-sd0734gwhgy-6-sparx-white-grey-original-imah5hg5ewmqtkqq.jpeg?q=70", "description": "Comfortable and stylish sneakers perfect for everyday wear.", "sizes": ["7", "8", "9", "10", "11"] },
+        { "id": 102, "name": "Men's Running Shoes", "price": 1439, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/n/w/l/10-a1sm-796-2-10-sparx-green-original-imah5zyhnqyaj5ns.jpeg?q=70", "description": "Lightweight and durable running shoes designed for high performance.", "sizes": ["7", "8", "9", "10", "11", "12"] },
+        { "id": 103, "name": "Men's Loafers", "price": 750, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/c/i/8/6-men-s-loafers-0001-40-mak-traders-black-original-imah5vq2hryhttbk.jpeg?q=70", "description": "Classic loafers offering a relaxed yet polished look.", "sizes": ["8", "9", "10", "11"] },
+        { "id": 104, "name": "Men's Boots", "price": 980, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/n/9/n/9-group-333-9-aadi-brown-original-imah43c6fxzvbhzs.jpeg?q=70", "description": "Rugged boots built for comfort and style in various outdoor environments.", "sizes": ["8", "9", "10", "11", "12"] },
+        { "id": 105, "name": "Men's Dress Shoes", "price": 1200, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/s/x/n/5-fc-6155-5-field-care-black-original-imah7gm4ge6rzgvg.jpeg?q=70", "description": "Elegant dress shoes suitable for formal occasions.", "sizes": ["7", "8", "9", "10", "11", "12"] },
+        { "id": 106, "name": "Men's Sandals", "price": 930, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/x/s/1/6-5-m-112-40-5-aeonik-beige-original-imahyrs4xvrzggyc.jpeg?q=70", "description": "Casual sandals that provide comfort during the warmer months.", "sizes": ["8", "9", "10", "11"] },
+        { "id": 107, "name": "Men's Chukka Boots", "price": 999, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/r/w/1/8-chukka-8-hirel-s-brown-original-imahyhygtwjcppwa.jpeg?q=70", "description": "Versatile boots that are perfect for both casual and semi-formal settings.", "sizes": ["8", "9", "10", "11"] },
+        { "id": 108, "name": "Men's Casual Shoes", "price": 1072, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/p/l/n/6-mexico-11-6-asian-green-original-imah3nxzfcgrn75k.jpeg?q=70", "description": "Casual yet stylish shoes for everyday wear.", "sizes": ["7", "8", "9", "10", "11"] },
+        { "id": 109, "name": "Men's Boat Shoes", "price": 2306, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/g/n/w/7-tc-2327wd-7-thomas-crick-wood-original-imah3g3sbk4nyhp8.jpeg?q=70", "description": "Boat shoes designed for comfort and style on and off the boat.", "sizes": ["7", "8", "9", "10", "11"] },
+        { "id": 110, "name": "Men's Work Boots", "price": 790, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/b/m/u/9-gbvltx6-9-9-vaultex-black-original-imah8pzgqust7qqs.jpeg?q=70", "description": "Durable and supportive boots designed for tough work environments.", "sizes": ["8", "9", "10", "11", "12"] },
+        { "id": 111, "name": "Men's Hiking Boots", "price": 100, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/o/s/k/-original-imagtezaexuhdqne.jpeg?q=70", "description": "High-performance hiking boots offering excellent grip and comfort.", "sizes": ["8", "9", "10", "11"] },
+        { "id": 112, "name": "Men's Flip Flops", "price": 289, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/slipper-flip-flop/b/t/k/8-pvc-872-grey-mediwalk-grey-original-imah2x876z5wptuh.jpeg?q=70", "description": "Affordable and easy-to-wear flip-flops perfect for casual outings.", "sizes": ["7", "8", "9", "10"] },
+        { "id": 113, "name": "Men's High-top Sneakers", "price": 965, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/5/5/o/-original-imagzjw3cyd9gf9f.jpeg?q=70", "description": "High-top sneakers for added ankle support and style.", "sizes": ["8", "9", "10", "11"] },
+        { "id": 114, "name": "Men's Clogs", "price": 740, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/b/c/x/10-011-phantom-white-10-doctor-health-super-soft-white-original-imah83rfyyxqbmtr.jpeg?q=70", "description": "Comfortable clogs that are easy to slip on and off.", "sizes": ["8", "9", "10", "11"] },
+        { "id": 115, "name": "Men's Slides", "price": 25, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/slipper-flip-flop/g/v/l/10-ad24hrxcr2003e-hrx-by-hrithik-roshan-olive-original-imah5bmfhetr56ts.jpeg?q=70", "description": "Simple slides that are perfect for quick and casual wear.", "sizes": ["8", "9", "10", "11"] },
+        { "id": 116, "name": "Men's Trail Running Shoes", "price": 1980, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/t/d/o/10-703922-cultsport-black-mustard-original-imah7qhjjnyx8tjc.jpeg?q=70", "description": "Trail running shoes with enhanced traction for off-road adventures.", "sizes": ["7", "8", "9", "10", "11"] },
+        { "id": 117, "name": "Women's Heels", "price": 470, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/o/p/r/7-fs619baige07-faishstar-beige-original-imah3vhzuygqhuts.jpeg?q=70", "description": "Chic high heels for a sophisticated and elegant look.", "sizes": ["5", "6", "7", "8", "9"] },
+        { "id": 118, "name": "Women's Flats", "price": 540, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/u/x/9/8-13x-black-8-the-slr-black-original-imah6vdvvyzkh2bm.jpeg?q=70", "description": "Comfortable and versatile flats for any occasion.", "sizes": ["5", "6", "7", "8", "9"] },
+        { "id": 119, "name": "Women's Sneakers", "price": 555, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/m/p/8-ld3960-41-layasa-multicolor-original-imah3bgabnnhcmvf.jpeg?q=70", "description": "Stylish and comfortable sneakers perfect for active women.", "sizes": ["6", "7", "8", "9", "10"] },
+        { "id": 120, "name": "Women's Sandals", "price": 390, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/5/i/y/7-coco-beige-supermet-beige-original-imah5updwhfemu2w.jpeg?q=70", "description": "Casual sandals perfect for warm weather and outdoor activities.", "sizes": ["6", "7", "8", "9"] },
+        { "id": 121, "name": "Women's Wedges", "price": 660, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/a/6/7/7-aks-f1-7-aaksu-green-original-imah8ampp9hmj22m.jpeg?q=70", "description": "Wedge sandals offering comfort and style for a variety of occasions.", "sizes": ["5", "6", "7", "8", "9"] },
+        { "id": 122, "name": "Women's Booties", "price": 2180, "image": "https://rukminim2.flixcart.com/image/612/612/kbjox3k0/shoe/o/l/h/59540-38-delize-black-original-imafsvhgkkctjzyg.jpeg?q=70", "description": "Stylish booties that can be dressed up or down.", "sizes": ["5", "6", "7", "8", "9"] },
+        { "id": 123, "name": "Women's Ankle Boots", "price": 975, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/e/i/7/7-epw4202black-7-el-paso-black-original-imah4wekfrp2rz2n.jpeg?q=70", "description": "Ankle boots that provide versatility and comfort for fall and winter.", "sizes": ["5", "6", "7", "8", "9"] },
+        { "id": 124, "name": "Women's Platforms", "price": 765, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/6/g/r/7-p-7-shoetopia-black-original-imagznzyurq5snhz.jpeg?q=70", "description": "Platform shoes that offer added height and a bold style.", "sizes": ["5", "6", "7", "8", "9"] },
+        { "id": 125, "name": "Women's High-top Sneakers", "price": 665, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/d/h/e/7-cnv4003-vendoz-black-original-imaggvkxxcrybjhk.jpeg?q=70", "description": "Fashionable high-top sneakers for women who love style and comfort.", "sizes": ["5", "6", "7", "8"] },
+        { "id": 126, "name": "Women's Casual Shoes", "price": 850, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/g/a/8-ss217-8-skyz-grey-original-imagw5k5ngfgfthh.jpeg?q=70", "description": "Casual shoes offering a blend of comfort and style for everyday wear.", "sizes": ["5", "6", "7", "8", "9"] },
+        { "id": 127, "name": "Women's Ballet Flats", "price": 475, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/d/h/j/6-ballet-flats-black-comfort-zone-black-original-imagfdvfhvjsphnf.jpeg?q=70", "description": "Classic ballet flats perfect for any casual or semi-formal occasion.", "sizes": ["5", "6", "7", "8"] },
+        { "id": 128, "name": "Women's Slippers", "price": 299, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/slipper-flip-flop/v/o/j/8-ss052-8-skyz-white-original-imagw5kp5scku4yt.jpeg?q=70", "description": "Simple and comfortable slippers for indoor or casual wear.", "sizes": ["6", "7", "8"] },
+        { "id": 129, "name": "Women's Sports Shoes", "price": 1235, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/h/x/n/7-ss5008a-7-skyz-blue-original-imag5jgdgfhygpdh.jpeg?q=70", "description": "Sports shoes designed for comfort and durability in active sports.", "sizes": ["6", "7", "8", "9", "10"] },
+        { "id": 130, "name": "Women's Running Shoes", "price": 1349, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/7/e/c/6-ss9923-6-skyz-pink-original-imagw5ngjwzqt2qg.jpeg?q=70", "description": "Running shoes that offer enhanced support and breathability.", "sizes": ["5", "6", "7", "8", "9"] },
+        { "id": 131, "name": "Women's Hiking Shoes", "price": 1790, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/l/o/z/6-mhr-1-6-montresor-olive-original-imafspvvgz2czknm.jpeg?q=70", "description": "Durable hiking shoes that provide great traction for outdoor adventures.", "sizes": ["6", "7", "8", "9"] },
+        { "id": 132, "name": "Women's Snow Boots", "price": 2200, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/x/f/x/7-bw44-red-and-white-original-imag4v22cgn7btxf.jpeg?q=70", "description": "Insulated snow boots designed to keep you warm and comfortable in cold weather.", "sizes": ["6", "7", "8", "9"] },
+        { "id": 133, "name": "Women's Flip Flops", "price": 150, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/slipper-flip-flop/p/i/t/8-ss001-8-skyz-orange-original-imagw5vggsfgkmjj.jpeg?q=70", "description": "Affordable and comfortable flip-flops perfect for the beach or casual outings.", "sizes": ["6", "7", "8"] },
+        { "id": 134, "name": "Women's Clogs", "price": 640, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/l/h/e/6-clogs-6-klicks-grey-original-imagzww8j5rdwhgh.jpeg?q=70", "description": "Comfortable clogs that are perfect for indoor or light outdoor activities.", "sizes": ["6", "7", "8"] },
+        { "id": 135, "name": "Men's Skate Shoes", "price": 1280, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/m/n/w/9-ss4300-9-skyz-black-original-imagw5fj9gmggh6r.jpeg?q=70", "description": "Skate shoes designed with a durable sole for skateboarding enthusiasts.", "sizes": ["7", "8", "9", "10", "11"] },
+        { "id": 136, "name": "Men's Slip-on Shoes", "price": 1499, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/q/c/t/7-mens-slip-on-7-aadi-black-original-imafvs5ft5tzhfvc.jpeg?q=70", "description": "Easy-to-wear slip-on shoes that combine comfort and style.", "sizes": ["7", "8", "9", "10"] },
+        { "id": 137, "name": "Men's Moccasins", "price": 1750, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/y/i/m/8-b3-moccasin-8-adias-brown-original-imafw6ehq7vefcnm.jpeg?q=70", "description": "Classic moccasins with a relaxed and stylish vibe.", "sizes": ["7", "8", "9", "10"] },
+        { "id": 138, "name": "Men's Espadrilles", "price": 899, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/a/c/v/7-espadrilles-7-oris-blue-original-imagvzgxkbhhzvv9.jpeg?q=70", "description": "Light and comfortable espadrilles for a casual, beach-ready look.", "sizes": ["8", "9", "10", "11"] },
+        { "id": 139, "name": "Men's Chelsea Boots", "price": 1050, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/q/a/f/7-chelsea-7-tommy-brown-original-imagw5jdxs9qwmzp.jpeg?q=70", "description": "Stylish Chelsea boots that are easy to wear and perfect for both formal and casual looks.", "sizes": ["8", "9", "10", "11"] },
+        { "id": 140, "name": "Men's Derby Shoes", "price": 1290, "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/h/7/d/7-derby-7-gliders-black-original-imagw5vgbpfwmvwq.jpeg?q=70", "description": "Elegant derby shoes designed for formal occasions or business wear.", "sizes": ["7", "8", "9", "10", "11"] },
+        { 
+            "id": 141, 
+            "name": "Men's Chinos", 
+            "price": 845, 
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/l/r/j/32-wstrs5007f-wrogn-original-imah4zebdpbwbpgu.jpeg?q=70&crop=false", 
+            "description": "Comfortable chinos with a slim fit, ideal for both casual and semi-formal occasions.",
+            "sizes": ["30", "32", "34", "36"]
+        },
+        { 
+            "id": 142, 
+            "name": "Men's Shorts", 
+            "price": 525, 
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/short/q/h/k/-original-imah4w5pxrwydzff.jpeg?q=70&crop=false", 
+            "description": "Stylish and breathable shorts, perfect for warm-weather outings.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+        },
+        { 
+            "id": 143, 
+            "name": "Men's Hoodie Jacket", 
+            "price": 965, 
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/9/n/d/s-wpss7279s-wrogn-original-imagxax4q2wfnjz6.jpeg?q=70&crop=false", 
+            "description": "Cozy hoodie with a jacket style, perfect for layering during colder months.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+        },
+        { 
+            "id": 144, 
+            "name": "Men's Suit Jacket", 
+            "price": 1200, 
+            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/sweatshirt/c/6/2/l-zh24-pln-sg-adro-original-imah6eezh3ne3s9y.jpeg?q=70&crop=false", 
+            "description": "Tailored suit jacket that adds sophistication and style to your formal wardrobe.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+        },
+        { 
+            "id": 145, 
+            "name": "Men's Swim Trunks", 
+            "price": 520, 
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/brief/v/x/w/xl-2-xytrnk2pckn416-xyxx-original-imagzyyzfetarpgh.jpeg?q=70&crop=false", 
+            "description": "Quick-drying swim trunks, perfect for beach days or poolside lounging.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+        },
+        { 
+            "id": 146, 
+            "name": "Men's Sweatpants", 
+            "price": 630, 
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/5/c/w/xs-edcssnhwi2415grey-max-original-imah4c3eznqmfwr2.jpeg?q=70&crop=false", 
+            "description": "Comfortable and soft sweatpants, perfect for relaxing or working out.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+        },
+        { 
+            "id": 147, 
+            "name": "Men's Workout T-Shirt", 
+            "price": 550, 
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/q/p/l/xl-30435542-wrogn-original-imah79qgbbajkszt.jpeg?q=70&crop=false", 
+            "description": "Breathable workout T-shirt, designed for comfort and flexibility during exercise.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+        },
+        { 
+            "id": 148, 
+            "name": "Men's Casual Blazer", 
+            "price": 2220, 
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/blazer/2/i/f/s-wsbz4078s-wrogn-original-imahy9fjtxayah4y.jpeg?q=70&crop=false", 
+            "description": "Lightweight blazer perfect for casual business settings or evening events.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+        },
+        { 
+            "id": 149, 
+            "name": "Men's Cotton Briefs", 
+            "price": 299, 
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/brief/v/s/q/s-1-style-006-levi-s-original-imah2hydyubpqfwy.jpeg?q=70&crop=false", 
+            "description": "Soft cotton briefs with a snug fit for all-day comfort.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+        },
+        { 
+            "id": 150, 
+            "name": "Men's Boxer Shorts", 
+            "price": 450, 
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/boxer/l/9/f/xxl-xybox95-xyxx-original-imagpfg5adfgts7j.jpeg?q=70&crop=false", 
+            "description": "Relaxed-fit boxers made with breathable fabric for superior comfort.",
+            "sizes": ["M", "L", "XL", "XXL"]
+        },
+        { 
+            "id": 151, 
+            "name": "Men's Thermal Vest", 
+            "price": 799, 
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/thermal/h/z/8/m-xythehst03-xyxx-original-imagj4xgtj9gcgjn.jpeg?q=70&crop=false", 
+            "description": "Warm thermal vest ideal for layering in cold weather.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+        },
+        { 
+            "id": 152, 
+            "name": "Men's Crew Neck T-Shirt", 
+            "price": 399, 
+            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/t-shirt/n/6/o/xl-skin-good-bdsquare-original-imah82k5dkzzf88t.jpeg?q=70&crop=false", 
+            "description": "Classic cotton crew neck t-shirt, perfect for casual everyday wear.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+        },
+        { 
+            "id": 153, 
+            "name": "Men's Hoodie Sweatshirt", 
+            "price": 599, 
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-sweatshirt/u/d/1/xl-214-clothy-men-original-imagvze4rjm7fzbm.jpeg?q=70&crop=false", 
+            "description": "Comfortable and stylish hoodie with a soft fleece lining.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+        },
+        { 
+            "id": 154, 
+            "name": "Men's Slim Fit Jeans", 
+            "price": 1000, 
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/9/b/4/30-z2-mjrp-02-zaysh-original-imah3wuqrum2tm2t.jpeg?q=70&crop=false", 
+            "description": "Stretchable slim-fit jeans designed for all-day comfort.",
+            "sizes": ["28", "30", "32", "34", "36"]
+        },
+        {
+            "id": 141,
+            "name": "Men's Slim Fit Chinos",
+            "price": 899,
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/7/f/c/32-ldffl9xw-schwans-original-imaght8uxvxdnbew.jpeg?q=70",
+            "description": "Comfortable and stylish slim fit chinos.",
+            "sizes": ["30", "32", "34", "36"]
+          },
+          {
+            "id": 142,
+            "name": "Men's Graphic T-Shirt",
+            "price": 499,
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/e/s/x/s-nc010-black-casual-shirt-original-imagqz9gbhds5azf.jpeg?q=70",
+            "description": "A trendy graphic t-shirt perfect for casual wear.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+          },
+          {
+            "id": 143,
+            "name": "Men's Sports Sneakers",
+            "price": 1499,
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/n/c/d/44-ff2022-cs-red-original-imaghq9zgpzjyyzv.jpeg?q=70",
+            "description": "Comfortable sports sneakers for active lifestyles.",
+            "sizes": ["42", "43", "44", "45"]
+          },
+          {
+            "id": 144,
+            "name": "Men's Winter Jacket",
+            "price": 2199,
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/6/d/t/xl-xm-cblck-6848-new-original-imagyzbg3p9zzubj.jpeg?q=70",
+            "description": "Warm and stylish jacket for cold weather.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+          },
+          {
+            "id": 145,
+            "name": "Men's Casual Slip-On Shoes",
+            "price": 799,
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/t/y/c/42-fdso-2174-fabra-original-imagfbcmqhhb6yzb.jpeg?q=70",
+            "description": "Easy-to-wear slip-on shoes for a casual look.",
+            "sizes": ["41", "42", "43", "44"]
+          },
+          {
+            "id": 146,
+            "name": "Men's Cotton Shorts",
+            "price": 499,
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/short/8/g/8/30-30-mbgsport-original-imagz7kvgsh9n8h8.jpeg?q=70",
+            "description": "Comfortable cotton shorts for casual wear.",
+            "sizes": ["30", "32", "34", "36"]
+          },
+          {
+            "id": 147,
+            "name": "Men's Basic Sweatshirt",
+            "price": 699,
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/n/v/f/m-ksxsw21-amber-original-imagzjgvvhscvzg9.jpeg?q=70",
+            "description": "Cozy and simple sweatshirt for daily wear.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+          },
+          {
+            "id": 148,
+            "name": "Men's Cargo Pants",
+            "price": 799,
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/y/w/s/34-nwpfsl-4269-north-west-original-imaghvwr6pqwdsfh.jpeg?q=70",
+            "description": "Durable and functional cargo pants with multiple pockets.",
+            "sizes": ["30", "32", "34", "36"]
+          },
+          {
+            "id": 149,
+            "name": "Men's Lightweight Jacket",
+            "price": 1299,
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/e/f/o/m-xjx271f-beige-original-imagfh9dy9ty7mhj.jpeg?q=70",
+            "description": "Lightweight jacket perfect for mild weather.",
+            "sizes": ["S", "M", "L", "XL", "XXL"]
+          },
+          {
+            "id": 150,
+            "name": "Men's Running Shoes",
+            "price": 999,
+            "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/5/d/a/44-rs042-black-original-imagf3sjwks6tmnf.jpeg?q=70",
+            "description": "Comfortable running shoes designed for performance.",
+            "sizes": ["42", "43", "44", "45"]
+          }
+  ]
+  

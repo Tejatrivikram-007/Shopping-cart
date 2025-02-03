@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "SD Card",
+    "type": "SD",
+    "sizes": "128GB",
+    "price": "999",
+    "description": "A standard SD card for basic storage needs, ideal for cameras and other portable devices.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/memory-card/x/g/d/-original-imahyh3br9hpnjrs.jpeg?q=70"
+  },
+  {
+    "id": 2,
+    "name": "SDHC Card",
+    "type": "SDHC",
+    "sizes": "128GB",
+    "price": "1199",
+    "description": "High Capacity SD card for moderate use, great for digital cameras and mobile devices.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/l5cslu80/memory-card/sdxc/6/1/o/mb-sc128k-apc-samsung-original-imaggfy7a7evqdfm.jpeg?q=70"
+  },
+  {
+    "id": 3,
+    "name": "SDXC Card",
+    "type": "SDXC",
+    "sizes": "64GB",
+    "price": "999",
+    "description": "Extended Capacity SD card, providing high-speed performance for 4K video and large file storage.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/memory-card/sdxc/v/g/b/srn64gtfu1a1a-srn64gtfu3a1a-strontium-original-imah8s6yyympzefg.jpeg?q=70"
+  },
+  {
+    "id": 4,
+    "name": "MicroSD Card",
+    "type": "MicroSD",
+    "sizes": "16GB",
+    "price": "599",
+    "description": "Small form factor microSD card suitable for smartphones, tablets, and action cameras.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/memory-card/microsd-card/m/f/l/happy-16gb-mmc-happy-memories-original-imah6yzvjhuhfmxg.jpeg?q=70"
+  },
+  {
+    "id": 5,
+    "name": "MicroSDHC Card",
+    "type": "MicroSDHC",
+    "sizes": "32GB",
+    "price": "630",
+    "description": "High capacity microSD card for use in mobile devices, drones, and cameras.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/jv6zi4w0/memory-card/microsdhc/4/z/g/sandisk-sdsquar-032g-gn6ma-original-imaf5zt36grgm38r.jpeg?q=70"
+  },
+  {
+    "id": 6,
+    "name": "MicroSDXC Card",
+    "type": "MicroSDXC",
+    "sizes": "128GB",
+    "price": "585",
+    "description": "High-speed microSD card for large media files and 4K video recording on smartphones and cameras.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/l4ei1e80/memory-card/microsdhc/o/h/a/mi210-hp-original-imagfaffktzghqtt.jpeg?q=70"
+  },
+  {
+    "id": 8,
+    "name": "CFast Card",
+    "type": "CFast",
+    "sizes": "256GB",
+    "price": "1299",
+    "description": "Professional-grade CFast card offering fast write speeds, suitable for high-performance cameras.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/l2jcccw0/memory-card/sdxc-uhs-i-card/f/x/z/sdsqua4-128g-gn6mn-sandisk-original-imagdv3y9ejqmzrz.jpeg?q=70"
+  },
+  {
+    "id": 9,
+    "name": "XQD Card",
+    "type": "XQD",
+    "sizes": "64GB",
+    "price": "589",
+    "description": "XQD memory card designed for professional photographers and videographers with ultra-fast data transfer.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/memory-card/d/v/f/-original-imagqy2sr4zqthwt.jpeg?q=70"
+  },
+  {
+    "id": 10,
+    "name": "Memory Stick Pro Duo",
+    "type": "MS Pro Duo",
+    "sizes": "8GB",
+    "price": "3499",
+    "description": "Memory Stick Pro Duo, typically used in older Sony devices like cameras and PlayStation Portable (PSP).",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/memory-card/memory-stick-pro-duo-card/j/l/7/pro-duo-scalebee-original-imagxup5dswkery2.jpeg?q=70"
+  },
+  {
+    "id": 11,
+    "name": "Memory Stick Micro",
+    "type": "MS Micro",
+    "sizes": "4GB",
+    "price": "1799",
+    "description": "Sony’s Memory Stick Micro for use in mobile devices and older Sony gadgets.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/jlsc58w0/card-reader/n/s/h/micro-sd-tf-to-ms-memory-stick-pro-duo-adapter-f2s-original-imaf8ugszu9anjzf.jpeg?q=70"
+  },
+  {
+    "id": 12,
+    "name": "ADATA ASD700 512 GB External Solid State Drive (SSD)  (Black)",
+    "type": "SM",
+    "sizes": "512GB",
+    "price": "6499",
+    "description": "Older memory card technology, once popular in digital cameras before the rise of SD cards.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/k9stjm80/external-hard-drive/ssd/h/z/h/adata-asd700-512gu3-cbk-original-imafrg84ykz8fbac.jpeg?q=70"
+  },
+  {
+    "id": 13,
+    "name": "WD My Passport 2 TB External Hard Disk Drive (HDD)  (Black)",
+    "type": "MMC",
+    "sizes": "512GB",
+    "price": "7499",
+    "description": "MultiMediaCard, often used in older devices, offers low-cost storage for basic use.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/k4bms280/external-hard-drive/hdd/q/2/a/wd-wdbyft0040bbk-original-imafmey87zxtvxen.jpeg?q=70"
+  },
+  {
+    "id": 14,
+    "name": "Seagate Expansion for Windows and Mac",
+    "type": "RS-MMC",
+    "sizes": "512GB",
+    "price": "5499",
+    "description": "Reduced-sizes MultiMediaCard (RS-MMC) for compact devices, offering moderate storage capacity.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kpvivm80/external-hard-drive/hdd/m/g/z/expansion-portable-stkm5000400-seagate-original-imag4ym3var4qhhp.jpeg?q=70"
+  },
+  {
+    "id": 15,
+    "name": "Ambrane Power Bank",
+    "type": "Power Bank",
+    "sizes": "10,000mAh",
+    "price": "899",
+    "description": "Compact and high-capacity power bank for charging smartphones and tablets on the go.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/l5jxt3k0/power-bank/3/i/v/-original-imagg7np5ap4eyfr.jpeg?q=70"
+  },
+  {
+    "id": 16,
+    "name": "Ambrane Power Bank",
+    "type": "Power Bank",
+    "sizes": "20,000mAh",
+    "price": "1500",
+    "description": "Powerful 20,000mAh power bank for multiple charges, perfect for long trips and heavy usage.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-power-bank/t/c/g/pp-111-10000-ambrane-original-imagg7nqnxxq8mhg.jpeg?q=70"
+  },
+  {
+    "id": 17,
+    "name": "Ambrane Power Bank",
+    "type": "Power Bank",
+    "sizes": "27,000mAh",
+    "price": "69.99",
+    "description": "Extra-large capacity power bank for charging multiple devices simultaneously, ideal for long days outdoors.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/2/m/c/-original-imah4nde8kzhemhh.jpeg?q=70"
+  },
+  {
+    "id": 18,
+    "name": "Ambrane Power Bank",
+    "type": "Power Bank",
+    "sizes": "20,000mAh",
+    "price": "1899",
+    "description": "Fast-charging power bank with 100W output, ideal for charging laptops and other high-power devices.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/2/m/c/-original-imah4nde8kzhemhh.jpeg?q=70"
+  },
+  {
+    "id": 19,
+    "name": "Solar Power Bank",
+    "type": "Power Bank",
+    "sizes": "15,000mAh",
+    "price": "1299",
+    "description": "Eco-friendly solar power bank with 15,000mAh capacity, perfect for outdoor adventures.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/a/f/i/power-spark-3-10300-4wire-1ok-3-mimo-binori-original-imah7n2nrkzhxtyt.jpeg?q=70"
+  },
+  {
+    "id": 20,
+    "name": "Portable Power Bank",
+    "type": "Power Bank",
+    "sizes": "5,000mAh",
+    "price": "1250",
+    "description": "Compact portable power bank for charging small devices on the go.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/z/c/v/5000mah-super-compact-type-c-power-bank-with-20w-pd-pps-output-original-imah5xxnftphenxh.jpeg?q=70"
+  },
+  {
+    "id": 21,
+    "name": "Wireless Power Bank",
+    "type": "Power Bank",
+    "sizes": "10,000mAh",
+    "price": "1699",
+    "description": "Wireless charging power bank with 10,000mAh capacity for easy charging without cables.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/r/q/w/magnetic-wireless-power-bank-maggo-10-000-mah-22-5w-wireless-original-imah8g6gpsw8grw9.jpeg?q=70"
+  },
+  {
+    "id": 22,
+    "name": "Dual USB Power Bank",
+    "type": "Power Bank",
+    "sizes": "12,000mAh",
+    "price": "1299",
+    "description": "Dual USB power bank for charging two devices at once, with 12,000mAh capacity.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/r/y/u/-original-imah4zgp8yhvxtz8.jpeg?q=70"
+  },
+  {
+    "id": 23,
+    "name": "Slim Power Bank",
+    "type": "Power Bank",
+    "sizes": "8,000mAh",
+    "price": "1099",
+    "description": "Ultra-slim power bank for easy portability with 8,000mAh capacity for everyday charging.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/u/o/h/powerslim-mini-10000mah-10000-pup-wpbn-10kblk-power-up-original-imah78tzq9ts6ykj.jpeg?q=70"
+  },
+  {
+    "id": 24,
+    "name": "High-Speed Power Bank",
+    "type": "Power Bank",
+    "sizes": "10,000mAh",
+    "price": "1399",
+    "description": "High-speed power bank with quick charge technology for fast charging of smartphones and tablets.",
+    "image": "High-Speed Power Bank"
+  },
+  {
+    "id": 25,
+    "name": "Mini Power Bank",
+    "type": "Power Bank",
+    "sizes": "3,000mAh",
+    "price": "599",
+    "description": "Mini power bank for quick top-ups on the go, small enough to fit in your pocket.",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/power-bank/s/o/j/beauty-of-glass-finish-power-30000-glass-fnsh-30000-qizmi-original-imah6f6hhr9tqtpc.jpeg?q=70"
+  }
+]

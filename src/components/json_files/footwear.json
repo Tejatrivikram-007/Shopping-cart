@@ -1,0 +1,227 @@
+[
+    {
+      "id": 1,
+      "name": "Men's Sneakers",
+      "price": 690,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/t/h/c/6-sd0734gwhgy-6-sparx-white-grey-original-imah5hg5ewmqtkqq.jpeg?q=70",
+      "description": "Comfortable and stylish sneakers perfect for everyday wear.",
+      "sizes": ["7  ", "8 ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 2,
+      "name": "Men's Running Shoes",
+      "price": 1439,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/n/w/l/10-a1sm-796-2-10-sparx-green-original-imah5zyhnqyaj5ns.jpeg?q=70",
+      "description": "Lightweight and durable running shoes designed for high performance.",
+      "sizes": ["7  ", "8 ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 3,
+      "name": "Men's Loafers",
+      "price": 750,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/c/i/8/6-men-s-loafers-0001-40-mak-traders-black-original-imah5vq2hryhttbk.jpeg?q=70",
+      "description": "Classic loafers offering a relaxed yet polished look.",
+      "sizes": ["8  ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 4,
+      "name": "Men's Boots",
+      "price": 980,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/n/9/n/9-group-333-9-aadi-brown-original-imah43c6fxzvbhzs.jpeg?q=70",
+      "description": "Rugged boots built for comfort and style in various outdoor environments.",
+      "sizes": ["8  ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 5,
+      "name": "Men's Dress Shoes",
+      "price": 1200,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/s/x/n/5-fc-6155-5-field-care-black-original-imah7gm4ge6rzgvg.jpeg?q=70",
+      "description": "Elegant dress shoes suitable for formal occasions.",
+      "sizes": ["7  ", "8 ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 6,
+      "name": "Men's Sandals",
+      "price": 930,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/x/s/1/6-5-m-112-40-5-aeonik-beige-original-imahyrs4xvrzggyc.jpeg?q=70",
+      "description": "Casual sandals that provide comfort during the warmer months.",
+      "sizes": ["8  ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 7,
+      "name": "Men's Chukka Boots",
+      "price": 999,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/r/w/1/8-chukka-8-hirel-s-brown-original-imahyhygtwjcppwa.jpeg?q=70",
+      "description": "Versatile boots that are perfect for both casual and semi-formal settings.",
+      "sizes": ["8  ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 8,
+      "name": "Men's Casual Shoes",
+      "price": 1072,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/p/l/n/6-mexico-11-6-asian-green-original-imah3nxzfcgrn75k.jpeg?q=70",
+      "description": "Casual yet stylish shoes for everyday wear.",
+      "sizes": ["7  ", "8 ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 9,
+      "name": "Men's Boat Shoes",
+      "price": 2306,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/g/n/w/7-tc-2327wd-7-thomas-crick-wood-original-imah3g3sbk4nyhp8.jpeg?q=70",
+      "description": "Boat shoes designed for comfort and style on and off the boat.",
+      "sizes": ["7  ", "8 ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 10,
+      "name": "Men's Work Boots",
+      "price": 790,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/b/m/u/9-gbvltx6-9-9-vaultex-black-original-imah8pzgqust7qqs.jpeg?q=70",
+      "description": "Durable and supportive boots designed for tough work environments.",
+      "sizes": ["8  ", "9 ", "10  ", "11", "12"]
+    },
+    {
+      "id": 11,
+      "name": "Men's Hiking Boots",
+      "price": 100,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/o/s/k/-original-imagtezaexuhdqne.jpeg?q=70",
+      "description": "High-performance hiking boots offering excellent grip and comfort.",
+      "sizes": ["8  ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 12,
+      "name": "Men's Flip Flops",
+      "price": 289,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/slipper-flip-flop/b/t/k/8-pvc-872-grey-mediwalk-grey-original-imah2x876z5wptuh.jpeg?q=70",
+      "description": "Affordable and easy-to-wear flip-flops perfect for casual outings.",
+      "sizes": ["7  ", "8 ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 13,
+      "name": "Men's High-top Sneakers",
+      "price": 965,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/5/5/o/-original-imagzjw3cyd9gf9f.jpeg?q=70",
+      "description": "High-top sneakers for added ankle support and style.",
+      "sizes": ["8  ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 14,
+      "name": "Men's Clogs",
+      "price": 740,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/b/c/x/10-011-phantom-white-10-doctor-health-super-soft-white-original-imah83rfyyxqbmtr.jpeg?q=70",
+      "description": "Comfortable clogs that are easy to slip on and off.",
+      "sizes": ["8  ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 15,
+      "name": "Men's Slides",
+      "price": 25,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/slipper-flip-flop/g/v/l/10-ad24hrxcr2003e-hrx-by-hrithik-roshan-olive-original-imah5bmfhetr56ts.jpeg?q=70",
+      "description": "Simple slides that are perfect for quick and casual wear.",
+      "sizes": ["8  ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 16,
+      "name": "Men's Trail Running Shoes",
+      "price": 1980,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/t/d/o/10-703922-cultsport-black-mustard-original-imah7qhjjnyx8tjc.jpeg?q=70",
+      "description": "Trail running shoes with enhanced traction for off-road adventures.",
+      "sizes": ["7  ", "8 ", "9 ", "10  ", "11"]
+    },
+    {
+      "id": 17,
+      "name": "Women's Heels",
+      "price": 470,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/o/p/r/7-fs619baige07-faishstar-beige-original-imah3vhzuygqhuts.jpeg?q=70",
+      "description": "Chic high heels for a sophisticated and elegant look.",
+      "sizes": ["5  ", "6 ", "7 ", "8 ", "9"]
+    },
+    {
+      "id": 18,
+      "name": "Women's Flats",
+      "price": 540,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/u/x/9/8-13x-black-8-the-slr-black-original-imah6vdvvyzkh2bm.jpeg?q=70",
+      "description": "Comfortable and versatile flats for any occasion.",
+      "sizes": ["5  ", "6 ", "7 ", "8 ", "9"]
+    },
+    {
+      "id": 19,
+      "name": "Women's Sneakers",
+      "price": 555,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/m/p/8-ld3960-41-layasa-multicolor-original-imah3bgabnnhcmvf.jpeg?q=70",
+      "description": "Stylish and comfortable sneakers perfect for active women.",
+      "sizes": ["6  ", "7 ", "8 ", "9", "10"]
+    },
+    {
+      "id": 20,
+      "name": "Women's Sandals",
+      "price": 390,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/5/i/y/7-coco-beige-supermet-beige-original-imah5updwhfemu2w.jpeg?q=70",
+      "description": "Casual sandals perfect for warm weather and outdoor activities.",
+      "sizes": ["6  ", "7 ", "8 ", "9"]
+    },
+    {
+      "id": 21,
+      "name": "Women's Wedges",
+      "price": 660,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/a/6/7/7-aks-f1-7-aaksu-green-original-imah8ampp9hmj22m.jpeg?q=70",
+      "description": "Wedge sandals offering comfort and style for a variety of occasions.",
+      "sizes": ["5  ", "6 ", "7 ", "8 ", "9"]
+    },
+    {
+      "id": 22,
+      "name": "Women's Booties",
+      "price": 2180,
+      "image": "https://rukminim2.flixcart.com/image/612/612/kbjox3k0/shoe/o/l/h/59540-38-delize-black-original-imafsvhgkkctjzyg.jpeg?q=70",
+      "description": "Stylish booties that can be dressed up or down.",
+      "sizes": ["5  ", "6 ", "7 ", "8 ", "9"]
+    },
+    {
+      "id": 23,
+      "name": "Women's Ankle Boots",
+      "price": 975,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/e/i/7/7-epw4202black-7-el-paso-black-original-imah4wekfrp2rz2n.jpeg?q=70",
+      "description": "Ankle boots that provide versatility and comfort for fall and winter.",
+      "sizes": ["5  ", "6 ", "7 ", "8 ", "9"]
+    },
+    {
+      "id": 24,
+      "name": "Women's Platforms",
+      "price": 765,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sandal/6/g/r/7-p-7-shoetopia-black-original-imagznzyurq5snhz.jpeg?q=70",
+      "description": "Platform shoes that offer added height and a bold style.",
+      "sizes": ["5  ", "6 ", "7 ", "8 ", "9"]
+    },
+    {
+      "id": 25,
+      "name": "Women's High-top Sneakers",
+      "price": 665,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/d/h/e/7-cnv4003-vendoz-black-original-imaggvkxxcrybjhk.jpeg?q=70",
+      "description": "Fashionable high-tops designed to add edge to your outfit.",
+      "sizes": ["5  ", "6 ", "7 ", "8 ", "9"]
+    },
+    {
+      "id": 26,
+      "name": "Women's Ballet Flats",
+      "price": 725,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/n/w/j/9-belly-7171-shoetopia-black-original-imagkh44nkmfugwx.jpeg?q=70",
+      "description": "Simple and elegant ballet flats perfect for casual wear.",
+      "sizes": ["5", "6", "7", "8"]
+    },
+    {
+      "id": 27,
+      "name": "Women's Espadrilles",
+      "price": 350,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/u/a/v/-original-imah6aj7fcbhksfh.jpeg?q=70",
+      "description": "Stylish espadrilles ideal for summer days and casual outings.",
+      "sizes": ["5", "6", "7", "8"]
+    },
+    {
+      "id": 28,
+      "name": "Women's Slippers",
+      "price": 260,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/slipper-flip-flop/h/h/v/8-ad24hrxsl2004e-hrx-by-hrithik-roshan-black-original-imah5bfz8zg6uyhy.jpeg?q=70",
+      "description": "Simple and comfortable slippers for home wear.",
+      "sizes": ["5", "6", "7", "8"]
+    }
+  ]
+  

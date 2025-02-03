@@ -1,0 +1,178 @@
+ [
+    {
+      "id": 1,
+      "name": "Boys' T-Shirt",
+      "price": 264,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-t-shirt/i/u/9/15-16-years-kids-oversized-tee-1000-born-fit-original-imah4efz7hwaxk5c.jpeg?q=70",
+      "description": "A soft and comfortable t-shirt perfect for everyday wear.",
+      "sizes": ["2-3 years  ", "4-5 years ", "6-7 years"]
+    },
+    {
+      "id": 2,
+      "name": "Girls' Dress",
+      "price": 399,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/r/o/e/2-3-years-121-villata-fashion-original-imah4hmhdh4ftckb.jpeg?q=70",
+      "description": "A beautiful and stylish dress for special occasions.",
+      "sizes": ["2-3 years  ", "4-5 years ", "6-7 years"]
+    },
+    {
+      "id": 3,
+      "name": "Boys' Jeans",
+      "price": 425,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jean/y/e/g/8-9-years-jn-jns-black-high-fame-original-imagy83mxhdfexpz.jpeg?q=70",
+      "description": "Durable and fashionable jeans for boys.",
+      "sizes": ["8-9 years  ", "10-11 years ", "12-13 years"]
+    },
+    {
+      "id": 4,
+      "name": "Girls' Skirt",
+      "price": 499,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/skirt/t/g/a/3-4-years-1601-green-print-miss-chief-original-imah4nfbp4cwngc2.jpeg?q=70",
+      "description": "A cute and comfortable skirt for girls.",
+      "sizes": ["3-4 years  ", "5-6 years ", "7-8 years"]
+    },
+    {
+      "id": 5,
+      "name": "Boys' Hoodie",
+      "price": 479,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/w/c/8/9-10-years-kids-fhd-dtf-itadori-yuzi-sqf-original-imah4kajbrf3hpdv.jpeg?q=70",
+      "description": "A warm and cozy hoodie for chilly days.",
+      "sizes": ["9-10 years ", "11-12 years ", "13-14 years"]
+    },
+    {
+      "id": 6,
+      "name": "Girls' Sweater",
+      "price": 899,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweater/n/g/u/5-6-years-prbtpmt401-bodycare-original-imah6a4nv2vmphwm.jpeg?q=70",
+      "description": "A stylish sweater to keep girls warm and cozy.",
+      "sizes": ["5-6 years  ", "7-8 years ", "9-10 years"]
+    },
+    {
+      "id": 7,
+      "name": "Boys' Shorts",
+      "price": 290,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-short/p/c/c/6-12-months-s125bwso02-max-original-imah8dsnxq86gfuy.jpeg?q=70",
+      "description": "Lightweight and comfortable shorts for boys.",
+      "sizes": ["6-12 months  ", "1-2 years ", "3-4 years"]
+    },
+    {
+      "id": 8,
+      "name": "Girls' Leggings",
+      "price": 220,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-legging/o/j/h/15-16-years-combo-10-08-05-04-02-french-kleider-original-imah4tvufe2fxkwc.jpeg?q=70",
+      "description": "Stretchy and comfortable leggings for active girls.",
+      "sizes": ["15-16 years  ", "13-14 years ", "11-12 years"]
+    },
+    {
+      "id": 9,
+      "name": "Boys' Jacket",
+      "price": 420,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jacket/u/v/g/7-8-years-1-no-armyjacket-wearup-original-imah6ftebxfvcfcz.jpeg?q=70",
+      "description": "A stylish jacket for boys to stay warm.",
+      "sizes": ["7-8 years  ", "9-10 years  ", "11-12 years"]
+    },
+    {
+      "id": 10,
+      "name": "Girls' Coat",
+      "price": 1445,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/coat/i/o/t/8-9-years-ckchimpgcoat05salmon-chkokko-original-imagxhpftdgf2krs.jpeg?q=70",
+      "description": "A fashionable coat for girls during winter.",
+      "sizes": ["8-9 years  ", "10-11 years ", "12-13 years"]
+    },
+    {
+      "id": 11,
+      "name": "Boys' Polo Shirt",
+      "price": 322,
+      "image": "https://rukminim2.flixcart.com/image/612/612/ksuowi80/kids-t-shirt/p/2/g/6-7-years-polo-boys-79-zip-white-nick-and-jones-original-imag6bhqyph8bzxa.jpeg?q=70",
+      "description": "A classic polo shirt for a smart look.",
+      "sizes": ["6-7 years  ", "8-9 years  ", "10-11 years"]
+    },
+    {
+      "id": 12,
+      "name": "Girls' Blouse",
+      "price": 524,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/blouse/l/y/k/7-8-years-rd55-minicloset-original-imagehy2q5ymsvue-bb.jpeg?q=70",
+      "description": "A chic blouse for a dressy outfit.",
+      "sizes": ["7-8 years  ", "9-10 years  ", "11-12 years"]
+    },
+    {
+      "id": 13,
+      "name": "Boys' Pajamas",
+      "price": 526,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-thermal/g/l/s/5-6-years-peb9627-bumzee-original-imah4pkvqynhfwxe.jpeg?q=70",
+      "description": "Soft and breathable pajamas for a good night’s sleep.",
+      "sizes": ["5-6 years  ", "7-8 years ", "9-10 years"]
+    },
+    {
+      "id": 14,
+      "name": "Girls' Nightgown",
+      "price": 425,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-nightwear/m/g/6/4-5-years-gnk001p22-clovia-original-imagueaj9dwnhnug.jpeg?q=70",
+      "description": "A cute and comfortable nightgown for bedtime.",
+      "sizes": ["5-6 years  ", "7-8 years ", "9-10 years"]
+    },
+    {
+      "id": 15,
+      "name": "Boys' Tank Top",
+      "price": 312,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-apparel-combo/g/m/g/10-11-years-jjp-btss-9456-j-jp-original-imagzzghrmmpqmmh.jpeg?q=70",
+      "description": "Lightweight tank top perfect for summer.",
+      "sizes": ["10-11 years  ", "12-13 years ", "14-15 years"]
+    },
+    {
+      "id": 16,
+      "name": "Girls' Romper",
+      "price": 699,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dungaree-romper/v/5/u/8-9-years-71-r8-choice-original-imahfpzdtgafn5ks.jpeg?q=70",
+      "description": "A fun and stylish romper for playtime.",
+      "sizes": ["8-9 years  ", "10-11 years ", "12-13 years"]
+    },
+    {
+      "id": 17,
+      "name": "Boys' Sweatpants",
+      "price": 723,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/7/9/x/1-2-years-nn322-911-nautinati-original-imah4u4tprdfnytt.jpeg?q=70",
+      "description": "Comfortable sweatpants for active kids.",
+      "sizes": ["1-2 years  ", "3-4 years ", "5-6 years"]
+    },
+    {
+      "id": 18,
+      "name": "Girls' Cardigan",
+      "price": 329,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweater/l/c/f/15-16-years-vm-1524255-676-d-v-mart-original-imah5vvewu8ws4mj.jpeg?q=70",
+      "description": "A cozy cardigan for layering up.",
+      "sizes": ["15-16 years  ", "13-14 years"  , "11-12 years"]
+    },
+    {
+      "id": 20,
+      "name": "Girls' Jumpsuit",
+      "price": 632,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/jumpsuit/u/n/r/10-11-years-ulkw20dr10-02-999-uptownie-lite-original-imagu87szh9qhvr7.jpeg?q=70",
+      "description": "A trendy jumpsuit for stylish girls.",
+      "sizes": ["10-11 years  ", "12-13 years ", "14-15 years"]
+    },
+    {
+      "id": 21,
+      "name": "Boys' Tracksuit",
+      "price": 638,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/track-suit/k/m/l/7-8-years-ck20242684-cutiekins-original-imah6fghr9zsfssk.jpeg?q=70",
+      "description": "A sporty tracksuit for active boys.",
+      "sizes": ["7-8 years  ", "9-10 years  ", "11-12 years"]
+    },
+    {
+      "id": 22,
+      "name": "Girls' Party Dress",
+      "price": 350,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/r/6/1/4-5-years-maroon-rayon-print-dwivedi-original-imah6ypmh6vcwtfy.jpeg?q=70",
+      "description": "A gorgeous dress for special occasions.",
+      "sizes": ["4-5 years  ", "6-7 years ", "8-9 years"]
+    },
+    {
+      "id": 25,
+      "name": "Boys' Button-Up Shirt",
+      "price": 628,
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/m/v/j/12-13-years-se-white-sky-pearl-original-imah77nmpebrqfa5.jpeg?q=70",
+      "description": "A smart and stylish button-up shirt.",
+      "sizes": ["12-13 years  ", "14-15 years ", "16-17 years"]
+    }
+  ]
