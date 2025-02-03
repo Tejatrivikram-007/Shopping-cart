@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # Click-n-Cart
 # click-and-cart
 # Shopping-cart
+# Shopping-cart
