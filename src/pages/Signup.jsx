@@ -23,7 +23,8 @@ const SignUp = () => {
         users.push(newUser);
         localStorage.setItem('users', JSON.stringify(users));
         localStorage.setItem('currentUser', JSON.stringify(newUser));
-        navigate('/home'); // Redirect to home page
+        alert('Signup successful! Please log in.');
+        navigate('/'); 
       }
     } catch (err) {
       setError('An error occurred. Please try again.');

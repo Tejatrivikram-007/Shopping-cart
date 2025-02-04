@@ -53,26 +53,26 @@ const Login = () => {
     }
   };
 
-  const handleSignOut = () => {
-    localStorage.removeItem('currentUser');
-    toast.info('You have been signed out.', {
-      position: 'top-right',
-      autoClose: 3000,
-    });
-    navigate('/');
-  };
+  // const handleSignOut = () => {
+  //   localStorage.removeItem('currentUser');
+  //   toast.info('You have been signed out.', {
+  //     position: 'top-right',
+  //     autoClose: 3000,
+  //   });
+  //   navigate('/');
+  // };
 
-  const currentUser = JSON.parse(localStorage.getItem('currentUser'));
-  if (currentUser) {
-    return (
-      <div className="login-containers">
-        <h2 className="welcome-message">Welcome, {currentUser.email}</h2>
-        <button onClick={handleSignOut} className="sign-out-button" style={{fontSize:'20px'}}>
-        <FiLogOut />
-        </button>
-      </div>
-    );
-  }
+  // const currentUser = JSON.parse(localStorage.getItem('currentUser'));
+  // if (currentUser) {
+  //   return (
+  //     <div className="login-containers">
+  //       <h2 className="welcome-message">Welcome, {currentUser.email}</h2>
+  //       <button onClick={handleSignOut} className="sign-out-button" style={{fontSize:'20px'}}>
+  //       <FiLogOut />
+  //       </button>
+  //     </div>
+  //   );
+  // }
 
   return (
     <div className="login_signup_container">

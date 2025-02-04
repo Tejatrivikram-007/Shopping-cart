@@ -1,5 +1,6 @@
 /* Navbar Container */
 .navbar {
+  /* height: 90px; */
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -176,7 +177,7 @@
 
 @media (max-width: 480px) {
   .navbar-logo img {
-    width: 80px;
+    width: 50px;
   }
 
   .navbar-search input {
@@ -184,6 +185,7 @@
     position: relative;
     left: 10px;
   }
+  
 
   .navbar-search .search {
     padding: 6px 12px;
@@ -191,9 +193,11 @@
   .navbar-links{
     display: flex;
     flex-direction: row;
-    gap: 30px;
+    gap: 10px;
     align-items: center;
+    margin-left: -15px;
   }
+
 
   .navbar-links a,
   .navbar-links select {
@@ -203,7 +207,7 @@
   .cart a,
   .login a {
     padding: 5px 8px;
-    font-size: 12px;
+    font-size: 10px;
   }
 
   .cart img {

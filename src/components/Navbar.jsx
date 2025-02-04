@@ -2,6 +2,7 @@ import React, { useState, useContext } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { FaUserSecret } from 'react-icons/fa';
 import { CartContext } from '../components/context/CartContext';
+import { FaSignOutAlt } from "react-icons/fa";
 import '../styles/Nav.css';
 import products from '../components/json_files/navbar.json'
 
@@ -11,6 +12,9 @@ const Navbar = () => {
   const { cart } = useContext(CartContext);
 
   const cartItemCount = cart.reduce((total, item) => total + item.quantity, 0);
+
+  // Check if the user is logged in
+  const currentUser = JSON.parse(localStorage.getItem('currentUser'));
 
   const handleSearch = (e) => {
     e.preventDefault();
@@ -34,6 +38,11 @@ const Navbar = () => {
     if (selectedCategory) {
       navigate(`/${selectedCategory}`);
     }
+  };
+
+  const handleSignOut = () => {
+    localStorage.removeItem('currentUser');
+    navigate('/');
   };
 
   return (
@@ -68,11 +77,22 @@ const Navbar = () => {
             <option value="fashion">Footwear</option>
           </select>
         </li>
+
+        {/* Show Sign In or Sign Out based on user status */}
+
         <li className="login">
-          <Link to="/" style={{ fontSize: '35px' }}>
-            <FaUserSecret />
-          </Link>
+          {currentUser ? (
+            <button onClick={handleSignOut} >
+              <FaSignOutAlt /> Sign Out
+              
+            </button>
+          ) : (
+            <Link to="/" style={{ fontSize: '15px' }}>
+              <FaUserSecret />
+            </Link>
+          )}
         </li>
+
         <li className="cart">
           <Link to="/cart" style={{ fontSize: '25px', position: 'relative' }}>
             <img
