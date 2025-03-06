@@ -29,11 +29,10 @@ Here's an example of content for your **GitHub repository** for an **Ecommerce W
 1. [Project Overview](#project-overview)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
-4. [File Structure](#file-structure)
-5. [How to Use](#how-to-use)
-6. [Demo](#demo)
-7. [Contributing](#contributing)
-8. [License](#license)
+4. [How to Use](#how-to-use)
+5. [Demo](#demo)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ---
 
